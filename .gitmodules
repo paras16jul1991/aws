@@ -1,0 +1,12 @@
+[submodule "aws-kinesis2"]
+	path = aws-kinesis2
+	url = https://github.com/paras16jul1991/aws-kinesis2
+[submodule "aws-Emr"]
+	path = aws-Emr
+	url = https://github.com/paras16jul1991/aws-Emr.git
+[submodule "aws-kinesis"]
+	path = aws-kinesis
+	url = https://github.com/paras16jul1991/aws-kinesis.git
+[submodule "aws-lambda"]
+	path = aws-lambda
+	url = https://github.com/paras16jul1991/aws-lambda.git
